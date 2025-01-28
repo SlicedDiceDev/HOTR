@@ -5,6 +5,16 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/ryanp/Desktop/HOTR/HOTR/HOTR/Content/Blender_Stuff/handle.uasset",
+				"C:/Users/ryanp/Desktop/HOTR/HOTR/HOTR/Content/Blender_Stuff/Material.uasset",
+				"C:/Users/ryanp/Desktop/HOTR/HOTR/HOTR/Content/DLG_Tree/levels/dlg_test.umap",
+				"C:/Users/ryanp/Desktop/HOTR/HOTR/HOTR/Content/DLG_Tree/example_player/example_tps_player.uasset",
+				"C:/Users/ryanp/Desktop/HOTR/HOTR/HOTR/Content/DLG_Tree/example_player/example_gamemode.uasset",
+				"C:/Users/ryanp/Desktop/HOTR/HOTR/HOTR/Content/DLG_Tree/meshes/character/mesh/PC_mannequin.uasset",
+				"C:/Users/ryanp/Desktop/HOTR/HOTR/HOTR/Content/DLG_Tree/meshes/character/mesh/sk_mannequin_skel.uasset",
+				"C:/Users/ryanp/Desktop/HOTR/HOTR/HOTR/Content/DLG_Tree/example_player/example_controller.uasset",
+				"C:/Users/ryanp/Desktop/HOTR/HOTR/HOTR/Content/DLG_Tree/example_npc/example_npc_child_example.uasset",
+				"C:/Users/ryanp/Desktop/HOTR/HOTR/HOTR/Content/DLG_Tree/dlg_system/common/npcexample1/example_reply1.uasset",
 				"C:/Users/rpm10/OneDrive/Desktop/HOTR/HOTR/Content/StarterContent/Architecture/Floor_400x400.uasset"
 			]
 		}
