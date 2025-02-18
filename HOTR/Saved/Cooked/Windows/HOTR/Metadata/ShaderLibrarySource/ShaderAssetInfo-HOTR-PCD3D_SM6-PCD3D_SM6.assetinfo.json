@@ -467,7 +467,15 @@
 			"ShaderMapHash": "563585875C6ECA70B8E3F024D9531B67ACD0F5AE",
 			"Assets": [
 				"/Engine/VREditor/TransformGizmo/Xray",
-				"/Game/Blender_Stuff/Material"
+				"/Game/Blender_Stuff/Material",
+				"/Game/Blender_Stuff/Material_001",
+				"/Game/Blender_Stuff/Material_002",
+				"/Game/Blender_Stuff/Material_003",
+				"/Game/Blender_Stuff/Material_004",
+				"/Game/Blender_Stuff/Material_005",
+				"/Game/Blender_Stuff/Material_006",
+				"/Game/Blender_Stuff/Material_007",
+				"/Game/Blender_Stuff/Material_008"
 			]
 		},
 		{
